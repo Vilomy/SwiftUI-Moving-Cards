@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MuvingCardsSwiftUI.xcodeproj">
+      location = "self:/Users/glebzadonskiy/Documents/Swift/MovingCards/MuvingCardsSwiftUI/MuvingCardsSwiftUI.xcodeproj">
    </FileRef>
 </Workspace>

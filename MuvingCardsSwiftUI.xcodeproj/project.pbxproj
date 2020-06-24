@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		343C287124A364B3007192B3 /* MuvingCardsSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MuvingCardsSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		343C287124A364B3007192B3 /* MovingCardsSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MovingCardsSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		343C287424A364B3007192B3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		343C287624A364B3007192B3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		343C287824A364B3007192B3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		343C287224A364B3007192B3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				343C287124A364B3007192B3 /* MuvingCardsSwiftUI.app */,
+				343C287124A364B3007192B3 /* MovingCardsSwiftUI.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		343C287024A364B3007192B3 /* MuvingCardsSwiftUI */ = {
+		343C287024A364B3007192B3 /* MovingCardsSwiftUI */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 343C288524A364B3007192B3 /* Build configuration list for PBXNativeTarget "MuvingCardsSwiftUI" */;
+			buildConfigurationList = 343C288524A364B3007192B3 /* Build configuration list for PBXNativeTarget "MovingCardsSwiftUI" */;
 			buildPhases = (
 				343C286D24A364B3007192B3 /* Sources */,
 				343C286E24A364B3007192B3 /* Frameworks */,
@@ -90,9 +90,9 @@
 			);
 			dependencies = (
 			);
-			name = MuvingCardsSwiftUI;
+			name = MovingCardsSwiftUI;
 			productName = MuvingCardsSwiftUI;
-			productReference = 343C287124A364B3007192B3 /* MuvingCardsSwiftUI.app */;
+			productReference = 343C287124A364B3007192B3 /* MovingCardsSwiftUI.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -123,7 +123,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				343C287024A364B3007192B3 /* MuvingCardsSwiftUI */,
+				343C287024A364B3007192B3 /* MovingCardsSwiftUI */,
 			);
 		};
 /* End PBXProject section */
@@ -332,7 +332,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		343C288524A364B3007192B3 /* Build configuration list for PBXNativeTarget "MuvingCardsSwiftUI" */ = {
+		343C288524A364B3007192B3 /* Build configuration list for PBXNativeTarget "MovingCardsSwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				343C288624A364B3007192B3 /* Debug */,

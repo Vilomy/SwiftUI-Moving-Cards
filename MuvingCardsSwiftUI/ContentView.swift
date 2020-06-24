@@ -4,7 +4,7 @@
 //
 //  Created by Gleb Zadonskiy on 24.06.2020.
 //  Copyright © 2020 Gleb Zadonskiy. All rights reserved.
-//
+//  https://www.youtube.com/watch?v=S9DOdX178ms&list=WL&index=33&t=3s
 
 import SwiftUI
 enum DragState{
